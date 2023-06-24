@@ -27,6 +27,7 @@ section.contact-sec {
     text-align: center;
     width: 30%;
 }
+
 .col-right {
     box-shadow: 0px 0px 2px 0px #fff;
     border-radius: 0 10px 10px 0;
@@ -114,7 +115,7 @@ input {
 .col-left h1 {
     /* margin-bottom: 1rem; */
     font-size: 2rem;
-    /* margin-top: 11rem; */
+    /* margin-top: 11rem; */ 
 }
 .col-left p {
     letter-spacing: 1px;
